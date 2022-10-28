@@ -1,0 +1,81 @@
+"Group","YEAR","HAUL_COUNT","CATCH_COUNT","roundBiomass","roundCV"
+"Spiny Dogfish",1980,127,0,0,0
+"Spiny Dogfish",1983,290,3,2,0.63
+"Spiny Dogfish",1986,383,6,14,0.5
+"Spiny Dogfish",1991,331,0,0,0
+"Spiny Dogfish",1994,380,9,47,0.37
+"Spiny Dogfish",1997,396,2,11,0.71
+"Spiny Dogfish",2000,419,3,25,0.62
+"Spiny Dogfish",2002,414,0,0,0
+"Spiny Dogfish",2004,419,0,0,0
+"Spiny Dogfish",2006,357,6,62,0.49
+"Spiny Dogfish",2010,418,0,0,0
+"Spiny Dogfish",2012,420,0,0,0
+"Spiny Dogfish",2014,410,2,23,0.71
+"Spiny Dogfish",2016,419,1,7,1
+"Spiny Dogfish",2018,420,0,0,0
+"Spiny Dogfish",2022,399,0,0,0
+"Pacific Sleeper Shark",1980,127,0,0,0
+"Pacific Sleeper Shark",1983,290,3,249,0.66
+"Pacific Sleeper Shark",1986,383,12,1995,0.36
+"Pacific Sleeper Shark",1991,331,3,2926,0.69
+"Pacific Sleeper Shark",1994,380,3,374,0.64
+"Pacific Sleeper Shark",1997,396,10,2486,0.29
+"Pacific Sleeper Shark",2000,419,3,2638,0.57
+"Pacific Sleeper Shark",2002,414,4,536,0.55
+"Pacific Sleeper Shark",2004,419,2,1017,0.96
+"Pacific Sleeper Shark",2006,357,1,76,1
+"Pacific Sleeper Shark",2010,418,1,74,1
+"Pacific Sleeper Shark",2012,420,1,22,1
+"Pacific Sleeper Shark",2014,410,0,0,0
+"Pacific Sleeper Shark",2016,419,0,0,0
+"Pacific Sleeper Shark",2018,420,2,100,0.65
+"Pacific Sleeper Shark",2022,399,0,0,0
+"Salmon Shark",1980,127,0,0,0
+"Salmon Shark",1983,290,0,0,0
+"Salmon Shark",1986,383,0,0,0
+"Salmon Shark",1991,331,0,0,0
+"Salmon Shark",1994,380,0,0,0
+"Salmon Shark",1997,396,0,0,0
+"Salmon Shark",2000,419,0,0,0
+"Salmon Shark",2002,414,1,1021,1
+"Salmon Shark",2004,419,0,0,0
+"Salmon Shark",2006,357,0,0,0
+"Salmon Shark",2010,418,0,0,0
+"Salmon Shark",2012,420,0,0,0
+"Salmon Shark",2014,410,0,0,0
+"Salmon Shark",2016,419,0,0,0
+"Salmon Shark",2018,420,0,0,0
+"Salmon Shark",2022,399,1,2218,1
+"Sharks",1980,127,0,0,0
+"Sharks",1983,290,6,251,0.65
+"Sharks",1986,383,17,2009,0.36
+"Sharks",1991,331,3,2926,0.69
+"Sharks",1994,380,11,420,0.57
+"Sharks",1997,396,11,2497,0.29
+"Sharks",2000,419,6,2663,0.56
+"Sharks",2002,414,5,1557,0.68
+"Sharks",2004,419,2,1017,0.96
+"Sharks",2006,357,7,138,0.59
+"Sharks",2010,418,1,74,1
+"Sharks",2012,420,1,22,1
+"Sharks",2014,410,2,23,0.71
+"Sharks",2016,419,1,7,1
+"Sharks",2018,420,2,100,0.65
+"Sharks",2022,399,1,2218,1
+"PSS_SD",1980,127,0,0,0
+"PSS_SD",1983,290,6,251,0.65
+"PSS_SD",1986,383,17,2009,0.36
+"PSS_SD",1991,331,3,2926,0.69
+"PSS_SD",1994,380,11,420,0.57
+"PSS_SD",1997,396,11,2497,0.29
+"PSS_SD",2000,419,6,2663,0.56
+"PSS_SD",2002,414,4,536,0.55
+"PSS_SD",2004,419,2,1017,0.96
+"PSS_SD",2006,357,7,138,0.59
+"PSS_SD",2010,418,1,74,1
+"PSS_SD",2012,420,1,22,1
+"PSS_SD",2014,410,2,23,0.71
+"PSS_SD",2016,419,1,7,1
+"PSS_SD",2018,420,2,100,0.65
+"PSS_SD",2022,399,0,0,0

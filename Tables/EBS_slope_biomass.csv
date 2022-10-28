@@ -1,0 +1,31 @@
+"Group","YEAR","HAUL_COUNT","CATCH_COUNT","roundBiomass","roundCV"
+"Spiny Dogfish",2002,141,0,0,0
+"Spiny Dogfish",2004,231,0,0,0
+"Spiny Dogfish",2008,200,1,13,1
+"Spiny Dogfish",2010,200,0,0,0
+"Spiny Dogfish",2012,189,0,0,0
+"Spiny Dogfish",2016,175,0,0,0
+"Pacific Sleeper Shark",2002,141,15,25425,0.87
+"Pacific Sleeper Shark",2004,231,24,2282,0.34
+"Pacific Sleeper Shark",2008,200,28,1968,0.27
+"Pacific Sleeper Shark",2010,200,19,833,0.27
+"Pacific Sleeper Shark",2012,189,16,1305,0.28
+"Pacific Sleeper Shark",2016,175,5,251,0.49
+"Salmon Shark",2002,141,0,0,0
+"Salmon Shark",2004,231,0,0,0
+"Salmon Shark",2008,200,0,0,0
+"Salmon Shark",2010,200,0,0,0
+"Salmon Shark",2012,189,0,0,0
+"Salmon Shark",2016,175,0,0,0
+"Sharks",2002,141,15,25425,0.87
+"Sharks",2004,231,24,2282,0.34
+"Sharks",2008,200,29,1981,0.26
+"Sharks",2010,200,19,833,0.27
+"Sharks",2012,189,16,1305,0.28
+"Sharks",2016,175,5,251,0.49
+"PSS_SD",2002,141,15,25425,0.87
+"PSS_SD",2004,231,24,2282,0.34
+"PSS_SD",2008,200,29,1981,0.26
+"PSS_SD",2010,200,19,833,0.27
+"PSS_SD",2012,189,16,1305,0.28
+"PSS_SD",2016,175,5,251,0.49
